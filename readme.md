@@ -1,12 +1,10 @@
 # Repositorio Desafio Evaluado M7
 
-Breve descripción del proyecto y su objetivo.
+Desafio Evaluado Repertorio DB
 
 ## Descripción del proyecto
 
 Se crea aplicacion fullstack para aplicar un CRUD con las caracteristicas solicitadas por el usuario.
-
-
 
 ## Prerrequisitos o Dependencias
 
@@ -30,8 +28,6 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 
 - Email: <user@mail.com>
 - Contraseña: Abc123#
-
-Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 - **Martin Orellana** - *Trabajo Inicial* - [Martin Orellana](https://github.com/martinoremonje)
 
